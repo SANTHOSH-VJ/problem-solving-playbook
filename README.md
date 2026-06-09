@@ -65,4 +65,4 @@ This repository serves as:
 
 ---
 
-“Consistency and pattern recognition are the keys to mastering DSA.”
+“Consistency and pattern recognition are the keys to mastering DSA”
